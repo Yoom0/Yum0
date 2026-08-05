@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Personal Essays on YUM0</title>
+		<link>http://localhost:1313/tags/personal-essays/</link>
+		<description>Recent content in Personal Essays on YUM0</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>yum0@limbomail.com (Servus Dei Custoditus)</managingEditor>
+		
+		
+			<webMaster>yum0@limbomail.com (Servus Dei Custoditus)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/personal-essays/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Narratives</title>
+				<link>http://localhost:1313/posts/narratives/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/narratives/</guid>
+				<description>&lt;p&gt;The section without a hook, because it doesn&amp;rsquo;t need one — this is just the writing. Personal essays, short fiction, the pieces that don&amp;rsquo;t fit a beat or a format and exist purely because something needed to be said in sentence form. Narratives is less a category than a home base: the place other sections borrow their tone from when they&amp;rsquo;re at their best. It asks the most of both writer and reader, and it&amp;rsquo;s usually where the writer would point first if asked what they&amp;rsquo;re actually proud of.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

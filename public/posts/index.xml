@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on YUM0</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on YUM0</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>yum0@limbomail.com (Servus Dei Custoditus)</managingEditor>
+		
+		
+			<webMaster>yum0@limbomail.com (Servus Dei Custoditus)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Expeditions</title>
+				<link>http://localhost:1313/posts/expeditions/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/expeditions/</guid>
+				<description>&lt;p&gt;Some ideas can only be understood by leaving the desk. Expeditions is the record of that — the trips taken not for leisure but for evidence: the site visit, the interview in a language you&amp;rsquo;re only half-fluent in, the data collected standing in the rain because the instrument couldn&amp;rsquo;t wait for better weather. This is where the mess of real fieldwork gets written down before it&amp;rsquo;s sanded into a tidy report somewhere else — the wrong turns, the local who explained more in five minutes than the literature did in five papers, the moment a hypothesis quietly died on contact with reality. If you&amp;rsquo;ve ever come back from a trip with more questions than you left with, you already know the feeling this section is built around.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Featured Partners</title>
+				<link>http://localhost:1313/posts/featured-partners/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/featured-partners/</guid>
+				<description>&lt;p&gt;The honest one, if only because it says what it is right in the name. Featured Partners is clearly marked space for paid or collaborative content — a boundary drawn on purpose so the rest of the site doesn&amp;rsquo;t have to wonder where the line is. Done well, it&amp;rsquo;s a place where sponsorship and genuine usefulness aren&amp;rsquo;t at odds; done badly, it&amp;rsquo;s the section readers learn to skip. Naming it plainly, rather than dressing it up as something else, is what keeps the trust intact everywhere else.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Narratives</title>
+				<link>http://localhost:1313/posts/narratives/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/narratives/</guid>
+				<description>&lt;p&gt;The section without a hook, because it doesn&amp;rsquo;t need one — this is just the writing. Personal essays, short fiction, the pieces that don&amp;rsquo;t fit a beat or a format and exist purely because something needed to be said in sentence form. Narratives is less a category than a home base: the place other sections borrow their tone from when they&amp;rsquo;re at their best. It asks the most of both writer and reader, and it&amp;rsquo;s usually where the writer would point first if asked what they&amp;rsquo;re actually proud of.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Punditry &amp; Parody</title>
+				<link>http://localhost:1313/posts/punditry-and-parody/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/punditry-and-parody/</guid>
+				<description>&lt;p&gt;Two moods sharing one roof. Punditry is the straight take — an actual argument, made in good faith, about the state of things. Parody is what happens when the straight take isn&amp;rsquo;t enough, when the news has already outpaced satire and the only honest response left is to exaggerate it further. Together they let a writer be serious and ridiculous in the same week, sometimes the same piece, without pretending those are contradictions. This is the section with the most risk in it — the one likeliest to make someone close the tab — and also, often, the most alive.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Respawn</title>
+				<link>http://localhost:1313/posts/respawn/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/respawn/</guid>
+				<description>&lt;p&gt;The name says it plainly: you die, you come back, you try again — and somewhere in that loop is the whole appeal of games as a subject worth writing about. Respawn isn&amp;rsquo;t a scoreboard or a review column; it&amp;rsquo;s closer to a journal kept between sessions, tracking not just what happened in the game but what it stirred up outside of it. A boss fight that mirrored a bad week. A slow, wandering open world that taught patience nobody asked for. The pleasure of a genre you&amp;rsquo;re embarrassed to admit you love. This section treats games as worth the same reflective attention as a book or a film — maybe more, since you actually had to survive them.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Guestbook</title>
+				<link>http://localhost:1313/posts/the-guestbook/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/the-guestbook/</guid>
+				<description>&lt;p&gt;Every project eventually outgrows a single voice, and The Guestbook is the acknowledgment of that. It&amp;rsquo;s a room set aside for other people&amp;rsquo;s stories — submitted, gathered, transcribed, sometimes lightly polished but never rewritten past recognition. The name does double duty: a guestbook is what strangers sign on their way through, and also what a house keeps to remember who&amp;rsquo;s been in it. This section is quieter than the others because it isn&amp;rsquo;t the writer&amp;rsquo;s job to be the loudest voice in it — just the one holding the door.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Two Fathers</title>
+				<link>http://localhost:1313/posts/two-fathers/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/two-fathers/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;two-fathers&#34;&gt;Two Fathers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;A confession, not a story — because I have nothing left to lose.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I have two fathers. One no longer speaks to me. The other I carry in my pocket.&lt;/p&gt;&#xA;&lt;p&gt;The second one is a pink tablet, small as a chickpea, with two letters stamped into its face. On the street it goes by many names — &lt;em&gt;guti&lt;/em&gt;, &lt;em&gt;maal&lt;/em&gt; — but the most common one will make your skin crawl. &lt;strong&gt;Baba.&lt;/strong&gt; Father. Yes: across this country, hundreds of thousands of boys call that pink thing &lt;em&gt;Baba&lt;/em&gt;. It took me twenty-four years to understand why. Like a father, it holds you when you fall. It reassures you. And one day you look up and realize you are nothing without it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unfiltered</title>
+				<link>http://localhost:1313/posts/unfiltered/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/unfiltered/</guid>
+				<description>&lt;p&gt;No thesis, no research, no performance — just the low-stakes overflow of a mind that thinks in public. Unfiltered is where a bad night&amp;rsquo;s sleep, a strong opinion about a sandwich, or a half-formed thought that never became an essay gets to exist without needing to justify itself. It&amp;rsquo;s the section most readers will feel closest to, precisely because it asks the least of them, and it&amp;rsquo;s often the one a writer needs most, if only to prove the other sections aren&amp;rsquo;t the whole story.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Guest Posts on YUM0</title>
+		<link>http://localhost:1313/tags/guest-posts/</link>
+		<description>Recent content in Guest Posts on YUM0</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>yum0@limbomail.com (Servus Dei Custoditus)</managingEditor>
+		
+		
+			<webMaster>yum0@limbomail.com (Servus Dei Custoditus)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/guest-posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Guestbook</title>
+				<link>http://localhost:1313/posts/the-guestbook/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/the-guestbook/</guid>
+				<description>&lt;p&gt;Every project eventually outgrows a single voice, and The Guestbook is the acknowledgment of that. It&amp;rsquo;s a room set aside for other people&amp;rsquo;s stories — submitted, gathered, transcribed, sometimes lightly polished but never rewritten past recognition. The name does double duty: a guestbook is what strangers sign on their way through, and also what a house keeps to remember who&amp;rsquo;s been in it. This section is quieter than the others because it isn&amp;rsquo;t the writer&amp;rsquo;s job to be the loudest voice in it — just the one holding the door.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

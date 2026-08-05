@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sponsored Content on YUM0</title>
+		<link>http://localhost:1313/tags/sponsored-content/</link>
+		<description>Recent content in Sponsored Content on YUM0</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>yum0@limbomail.com (Servus Dei Custoditus)</managingEditor>
+		
+		
+			<webMaster>yum0@limbomail.com (Servus Dei Custoditus)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/sponsored-content/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Featured Partners</title>
+				<link>http://localhost:1313/posts/featured-partners/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/featured-partners/</guid>
+				<description>&lt;p&gt;The honest one, if only because it says what it is right in the name. Featured Partners is clearly marked space for paid or collaborative content — a boundary drawn on purpose so the rest of the site doesn&amp;rsquo;t have to wonder where the line is. Done well, it&amp;rsquo;s a place where sponsorship and genuine usefulness aren&amp;rsquo;t at odds; done badly, it&amp;rsquo;s the section readers learn to skip. Naming it plainly, rather than dressing it up as something else, is what keeps the trust intact everywhere else.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

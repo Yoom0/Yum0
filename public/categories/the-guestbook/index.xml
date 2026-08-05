@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Guestbook on YUM0</title>
+		<link>http://localhost:1313/categories/the-guestbook/</link>
+		<description>Recent content in The Guestbook on YUM0</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>yum0@limbomail.com (Servus Dei Custoditus)</managingEditor>
+		
+		
+			<webMaster>yum0@limbomail.com (Servus Dei Custoditus)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/the-guestbook/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Guestbook</title>
+				<link>http://localhost:1313/posts/the-guestbook/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/the-guestbook/</guid>
+				<description>&lt;p&gt;Every project eventually outgrows a single voice, and The Guestbook is the acknowledgment of that. It&amp;rsquo;s a room set aside for other people&amp;rsquo;s stories — submitted, gathered, transcribed, sometimes lightly polished but never rewritten past recognition. The name does double duty: a guestbook is what strangers sign on their way through, and also what a house keeps to remember who&amp;rsquo;s been in it. This section is quieter than the others because it isn&amp;rsquo;t the writer&amp;rsquo;s job to be the loudest voice in it — just the one holding the door.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Two Fathers</title>
+				<link>http://localhost:1313/posts/two-fathers/</link>
+				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate><author>yum0@limbomail.com (Servus Dei Custoditus)</author>
+				<guid>http://localhost:1313/posts/two-fathers/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;two-fathers&#34;&gt;Two Fathers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;A confession, not a story — because I have nothing left to lose.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I have two fathers. One no longer speaks to me. The other I carry in my pocket.&lt;/p&gt;&#xA;&lt;p&gt;The second one is a pink tablet, small as a chickpea, with two letters stamped into its face. On the street it goes by many names — &lt;em&gt;guti&lt;/em&gt;, &lt;em&gt;maal&lt;/em&gt; — but the most common one will make your skin crawl. &lt;strong&gt;Baba.&lt;/strong&gt; Father. Yes: across this country, hundreds of thousands of boys call that pink thing &lt;em&gt;Baba&lt;/em&gt;. It took me twenty-four years to understand why. Like a father, it holds you when you fall. It reassures you. And one day you look up and realize you are nothing without it.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
