@@ -2,11 +2,11 @@
 title: "YUM0"
 ---
 
-# Welcome to YUM0
+# YUM0
 
 A personal archive of stories, field notes, essays, game journals, and collected experiences.
 
-## Explore
+## Sections
 
 - Expeditions
 - Respawn
@@ -15,3 +15,5 @@ A personal archive of stories, field notes, essays, game journals, and collected
 - The Guestbook
 - Unfiltered
 - Featured Partners
+
+> Servus Dei Custoditus
