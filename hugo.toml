@@ -41,13 +41,6 @@ weight = 1
 
 
 [[menus.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 2
-
-
-[[menus.main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories/"
