@@ -3,6 +3,23 @@
     <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
       {{ .Content }}
     </div>
+    <h2>Latest Stories</h2>
+
+{{ range first 6 (where .Site.RegularPages "Type" "ne" "page") }}
+  <article class="post on-list">
+    <h3>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+
+    {{ with .Summary }}
+      <p>{{ . }}</p>
+    {{ end }}
+  </article>
+{{ end }}
+
+<p>
+  <a class="button" href="/explore/">Explore More →</a>
+</p>
   {{ end }}
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}

@@ -49,6 +49,12 @@ weight = 3
 
 
 [[menus.main]]
+identifier = "explore"
+name = "Explore"
+url = "/explore/"
+weight = 2
+
+[[menus.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
