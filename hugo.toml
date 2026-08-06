@@ -8,6 +8,9 @@ defaultContentLanguage = "en"
 [outputs]
 home = ["HTML", "RSS"]
 
+[params.logo]
+logoText = "YUM0"
+
 [params]
 description = "A personal archive of stories, research experiences, game journals, essays, satire, and reflections."
 keywords = "stories, game journals, political satire, essays, anthropology, research, field work, personal blog, sponsored content"
