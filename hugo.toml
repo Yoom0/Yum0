@@ -15,6 +15,7 @@ logoText = "YUM0"
 description = "A personal archive of stories, research experiences, game journals, essays, satire, and reflections."
 keywords = "stories, game journals, political satire, essays, anthropology, research, field work, personal blog, sponsored content"
 enableSiteSearch = true
+centerTheme = true
 
 [params.author]
 name = "Servus Dei Custoditus"
