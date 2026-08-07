@@ -1,7 +1,6 @@
 ---
 title: "Search"
+layout: "search"
 ---
 
-# Search
-
-Use the search bar to find posts, stories, tags, and categories.
+Find stories, articles, tags, and categories from the archive.

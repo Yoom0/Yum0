@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<p>
+Find stories, articles, tags, and categories from the archive.
+</p>
+
+<div id="search"></div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+window.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false
+    });
+});
+</script>
+
+{{ end }}
