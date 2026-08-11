@@ -6,49 +6,43 @@ title: "About"
 
 ---
 
-YUM0 is a collection of stories, observations, field notes, essays, game journals, satire, and the occasional unfinished thought.
 
-Some entries begin with research. Others begin with a conversation, a strange headline, a long walk, a difficult game, or a question that refused to leave. The common thread is curiosity.
+YUM0 is a confluence of thoughts, research, field notes, essays, game journals, satire, and the occasional half-baked idea.
 
-The world is full of systems that claim to be simple until you look closely. People are much the same. YUM0 exists to document those moments where certainty breaks down and something more interesting appears in its place.
+Things here are either born out of research, a conversation, a peculiar news headline, a walk, a particularly frustrating game playthrough, or just a question that simply will not die.
 
-You will find:
+There is a certain frustration that comes with realizing there are systems around us everywhere, down to the people we interact with, that are presented as simple at first glance but reveal layers upon layers of complexity at a closer inspection.
 
-- Field notes from places and communities
-- Personal essays and long-form reflections
-- Stories, both real and imagined
-- Political commentary and parody
-- Gaming journals and cultural observations
-- Fragments that did not fit anywhere else
+YUM0 is the story of my attempts to capture these moments of revelation and understanding, to write about what I find interesting.
 
-This is not a publication with a mission statement, a content strategy, or a carefully maintained personal brand.
+Find things relating to:
 
-It is an archive.
+• field notes from places and people
 
-A place to store things worth remembering before they disappear into timelines, feeds, screenshots, notebooks, and forgotten browser tabs.
+• essays
 
-## Why YUM0?
+• stories
 
-Because not everything needs to be optimized.
+• political rants and satire
 
-Not every thought becomes an article.
-Not every article becomes an argument.
-Not every argument needs to win.
+• game journals, culture
 
-Some things are worth preserving simply because they happened.
+• and much more
 
-## About the Author
+This is not a proper media hub. There is nothing particularly grand about it, other than being a storage for things I feel like I might want to read later, or that I think others may be interested in, too.
 
-The author writes under the name **Servus Dei Custoditus**.
+It's just a chronicle. Nothing more, nothing less.
 
-A student of people, stories, systems, and the strange ways they intersect.
+The reason I'm writing this up, apart from general self-indulgence, is to highlight that things here are not meant to be taken too seriously.
 
-More interested in asking questions than providing answers.
+Not everything has a place here.
 
-Usually found reading, researching, wandering, writing, or staring at a blinking cursor that should have become a paragraph twenty minutes ago.
+Not every idea is an article, not every article is an essay, and not every essay is meant to have a point.
 
-## A Note
+Some things are simply worth preservation for their own sake.
 
-Nothing here should be mistaken for certainty.
+The author is a student of human nature, society, systems, and their peculiar relations to one another and is very often found typing random thoughts on a keyboard, preferably while a procrastinating on actually finishing an article he wrote three years ago.
 
-Everything here should be understood as an attempt.
+The author goes by the handle Servus Dei Custoditus online.
+
+Nothing written here should be taken for gospel, truth, or any other faith-based substances; take everything you read here with a grain of salt or a healthy dose of skepticism, whichever you prefer.
